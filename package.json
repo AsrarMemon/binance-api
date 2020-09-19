@@ -1,0 +1,16 @@
+{
+  "name": "tradier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-node": "^0.10.7",
+    "sntp": "^3.0.2",
+    "tradier-api": "^0.1.0"
+  }
+}
